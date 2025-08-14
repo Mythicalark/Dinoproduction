@@ -2,7 +2,7 @@
 {"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 240.00,
+"intervalSeconds": 60.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
