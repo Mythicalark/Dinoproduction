@@ -2,7 +2,7 @@
 {"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 60.00,
+"intervalSeconds": 240.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
@@ -130,7 +130,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'", 
+{"dinoType": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -215,6 +215,34 @@
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/ArkDescended/Dinos/Dodo/ExcellentDodo/Dodo_Character_BP_ExcellentTamable.Dodo_Character_BP_ExcellentTamable'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/ArkDescended/Items/Essence/PrimalItemResource_ExcellentEssence.PrimalItemResource_ExcellentEssence'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/ArkDescended/Dinos/Raptor/Unreal/Raptor_Character_BP_Unreal.Raptor_Character_BP_Unreal'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/ArkDescended/Items/Essence/UnrealEssence/PrimalItemResource_UnrealEssence.PrimalItemResource_UnrealEssence'"
 ],
 "alternateItems": [
 
