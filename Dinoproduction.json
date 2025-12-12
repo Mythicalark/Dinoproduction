@@ -5,7 +5,7 @@
 "intervalSeconds": 240.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+"Blueprint'/PrimalNemesis/3Items/Metalsystem/Ingots/Brass/PrimalItemResource_BrassMetalIngot.PrimalItemResource_BrassMetalIngot."
 ],
 "alternateItems": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
@@ -27,7 +27,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 3600.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
@@ -52,7 +52,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 3600.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
@@ -119,7 +119,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 240.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
@@ -130,7 +130,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'", 
+{"dinoType": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -172,7 +172,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 900.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
@@ -197,7 +197,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 900.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
@@ -221,36 +221,9 @@
 ]
 }
 
-]},
-{"dinoType": "Blueprint'/ArkDescended/Dinos/Dodo/DescendedDodo/Dodo_Character_BP_Descended.Dodo_Character_BP_Descended'", 
-"produces":[
-{
-"intervalSeconds": 60.00,
-"alternateItemChance": 0.00,
-"items": [
-"Blueprint'/ArkDescended/Items/Essence/DescendedEssence/PrimalItemResource_DescendedEssence.PrimalItemResource_DescendedEssence'"
-],
-"alternateItems": [
-
-]
-}
-
-]},
-{"dinoType": "Blueprint'/ArkDescended/Dinos/Dodo/ExcellentDodo/Dodo_Character_BP_ExcellentTamable.Dodo_Character_BP_Excellent'", 
-"produces":[
-{
-"intervalSeconds": 60.00,
-"alternateItemChance": 0.00,
-"items": [
-"Blueprint'/ArkDescended/Items/Essence/PrimalItemResource_ExcellentEssence.PrimalItemResource_ExcellentEssence'"
-],
-"alternateItems": [
-
-]
-}
-
 ]}
 
 
 ]
 }
+
